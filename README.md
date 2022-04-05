@@ -1,3 +1,3 @@
 # Lahmacun Radio App
 
-ToDo: write the readme
+## This repository has been moved to [lahmacunradio/app](https://github.com/lahmacunradio/app)
